@@ -1,0 +1,5 @@
+这个版本库的作用是将带www的链接跳转到不带www的url上。
+比如将：
+http://www.zhaolei.info/about
+跳转到：
+http://zhaolei.info/about
